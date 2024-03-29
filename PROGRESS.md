@@ -1,0 +1,97 @@
+# Grokking Algorithms, Second Edition
+
+- [ ] 1. Introduction to algorithms
+   - [ ] Binary search 
+   - [ ] Big O notation
+   - [ ] Recap
+- [ ] 2. Selection sort
+   - [ ] How memory works
+   - [ ] Arrays and linked lists
+   - [ ] Which is used more, arrays or linked lists?
+   - [ ] Selection sort
+   - [ ] Example code listing
+   - [ ] Recap
+- [ ] 3. Recursion 
+   - [ ] Recursion
+   - [ ] Base case and recursive case
+   - [ ] The stack
+   - [ ] Recap
+- [ ] 4. Quicksort
+   - [ ] Divide and conquer
+   - [ ] Quicksort
+   - [ ] Big O notation revisited 
+   - [ ] Recap
+- [ ] 5. Hash tables
+   - [ ] Hash functions
+   - [ ] Use cases
+   - [ ] Collisions
+   - [ ] Performance
+   - [ ] Recap
+- [ ] 6. Breadth-first search
+   - [ ] Introduction to graphs
+   - [ ] What is a graph?
+   - [ ] Breadth-first search
+   - [ ] Implementing the graph
+   - [ ] Implementing the algorithm
+   - [ ] Recap
+- [ ] 7. Trees
+   - [ ] Your first tree
+   - [ ] A space odyssey: Depth-first search
+   - [ ] Binary trees
+   - [ ] Huffman coding
+   - [ ] Recap
+- [ ] 8. Balanced trees
+   - [ ] A balancing act
+   - [ ] Shorter trees are faster
+   - [ ] AVL trees: A type of balanced tree
+   - [ ] Splay trees
+   - [ ] B-trees
+   - [ ] Recap
+- [ ] 9. Dijkstra's algorithm
+   - [ ] Working with Dijkstra's algorithm
+   - [ ] Terminology
+   - [ ] Trading for a piano
+   - [ ] Negative-weight edges
+   - [ ] Implementation
+   - [ ] Recap
+- [ ] 10. Greedy algorithms
+    - [ ] The classroom scheduling problem
+    - [ ] The knapsack problem
+    - [ ] The set-covering problem
+    - [ ] Recap
+- [ ] 11. Dynamic programming
+    - [ ] The knapsack problem (revisited)
+    - [ ] Knapsack problem FAQ
+    - [ ] Longest common substring
+    - [ ] Recap
+- [ ] 12. k-nearest neighbors
+    - [ ] Classifying oranges vs. grapefruit
+    - [ ] Building a recommendations system
+    - [ ] Regression
+    - [ ] Introduction to machine learning
+    - [ ] A high-level overview of training an ML model
+    - [ ] Recap  
+- [ ] 13. Where to go next
+    - [ ] Linear regression
+    - [ ] Inverted indexes
+    - [ ] The Fourier transform
+    - [ ] Parallel algorithms
+    - [ ] map/reduce
+    - [ ] Bloom filters and HyperLogLog
+    - [ ] HTTPS and the Diffie–Hellman key exchange
+    - [ ] Locality-sensitive hashing
+    - [ ] Min heaps and priority queues
+    - [ ] Linear programming
+    - [ ] Epilogue
+
+## Appendixes
+- [ ] Appendix A: Performance of AVL trees  
+- [ ] Appendix B: NP-hard problems
+  - [ ] Decision problems
+  - [ ] The satisfiability problem
+  - [ ] Hard to solve, quick to verify
+  - [ ] Reductions
+  - [ ] NP-hard
+  - [ ] NP-complete
+  - [ ] Recap
+- [ ] Appendix C: Answers to exercises
